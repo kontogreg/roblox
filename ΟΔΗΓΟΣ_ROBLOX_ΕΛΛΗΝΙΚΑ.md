@@ -1,11 +1,15 @@
 # Roblox Programming — γρήγορος οδηγός
 
+## Το νέο παιχνίδι: Jump for Animals
+
+Στο `Jump for Animals` ξεκινάς χαμηλά και πηδάς από πλατφόρμα σε πλατφόρμα. Στα ψηλά βρίσκεις ζώα. Οι κρύσταλλοι αγοράζουν καλύτερο άλμα και ταχύτητα, ώστε να φτάνεις όλο και ψηλότερα.
+
 ## Πώς βάζω το παιχνίδι
 
 1. Άνοιξε **Roblox Studio** και επίλεξε **Baseplate**.
 2. Από το μενού **View**, άνοιξε τα **Explorer** και **Output**.
-3. Στο Explorer βρες `ServerScriptService`, πάτησε το `+` και επίλεξε **Script**. Διέγραψε ό,τι γράφει μέσα και κάνε επικόλληση από το `CrystalRush_Server.lua`.
-4. Βρες `StarterPlayer > StarterPlayerScripts`, πάτησε `+`, επίλεξε **LocalScript** και κάνε επικόλληση από το `CrystalRush_Client.lua`.
+3. Στο Explorer βρες `ServerScriptService`, πάτησε το `+` και επίλεξε **Script**. Διέγραψε ό,τι γράφει μέσα και κάνε επικόλληση από το `JumpForAnimals_Server.lua`.
+4. Βρες `StarterPlayer > StarterPlayerScripts`, πάτησε `+`, επίλεξε **LocalScript** και κάνε επικόλληση από το `JumpForAnimals_Client.lua`.
 5. Πάτησε **Play**. Θα εμφανιστεί η πίστα!
 
 Για να παίξεις με φίλους: `File > Publish to Roblox As...`, βάλε όνομα/εικόνα και κάνε το παιχνίδι Public ή δώσε το link στους φίλους σου. Για δοκιμή πολλών παικτών μέσα στο Studio, πήγαινε **Test > Start** και διάλεξε αριθμό παικτών.
